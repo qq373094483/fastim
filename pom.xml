@@ -19,8 +19,8 @@
         <module>fastim-leaf</module>
         <module>fastim-common</module>
         <module>fastim-lsb</module>
-        <module>fastim-sample</module>
         <module>fastim-logic</module>
+        <module>fastim-sample</module>
     </modules>
 
     <properties>
